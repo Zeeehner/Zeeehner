@@ -1,50 +1,39 @@
-# 👋 Hey, I'm Noah – App Developer & Creative Technologist
+# 👋 Hey, I'm Noah – Mobile & Game Developer
 
-Welcome to my GitHub profile!  
-I develop mobile apps and experiment with innovative technologies – from Kotlin & Jetpack Compose to real-time multiplayer games using WebSockets and Python.
-
----
-
-## 🚀 Currently working on:
-- 📱 **Lost & Found App** (Android, Firebase, Jetpack Compose)  
-  A smart app to report and find lost items – featuring Maps, Chat, and Multilingual Support  
-- 🧩 **Game Clone: Parallel Kingdom**  
-  A real-time MMO prototype with Python + FastAPI + WebSockets + OpenStreetMap, running on Raspberry Pi  
-- 🌐 Backend architecture with Supabase and Firebase
+I design mobile apps and real-time experiences using Kotlin, Swift & Python.  
+My focus: clean UI, meaningful features, and systems that scale – from Firebase to Raspberry Pi servers.
 
 ---
 
-## 🌱 Currently learning:
-- 🐍 Python for server-side game logic  
-- ⚙️ Raspberry Pi as a portable backend server  
-- 🍏 Swift/iOS to expand my Android app to iOS  
-- 🔐 Supabase Auth & Database management as an alternative to Firebase
+## 🚀 Projects (Selection)
+- **Lost & Found** *(Android, Firebase)* – Report & locate lost items with Maps & Chat  
+- **TravelMe** *(iOS, SwiftUI)* – Hotel finder with Amadeus & Unsplash API  
+- **Space Shooter** *(iOS Game)* – 2D arcade game with SpriteKit  
+- **The Song of Code and Fire** *(Swift CLI RPG)*  
+- **PK Clone** *(Python + FastAPI)* – MMO world prototype on Raspberry Pi  
 
 ---
 
-## 🛠️ Skills & Technologies:
-- **Kotlin / Jetpack Compose / MVVM / Clean Architecture**
-- **Firebase (Auth, Firestore, Storage, FCM)**
-- **Python + FastAPI / WebSockets**
-- **OpenStreetMap + Leaflet.js for real-world map features**
-- **Supabase / RESTful APIs / Secure Auth Flows**
-- **Raspberry Pi headless setup & remote deployment**
+## 🧠 Learning Now
+- Supabase Auth / Database  
+- Swift for iOS porting  
+- Real-time WebSockets (Python)  
+- Headless deployment on Raspberry Pi
 
 ---
 
-## 💬 Ask me about:
-> Android UI/UX with Compose, Firebase quirks, MVVM best practices, live geolocation apps, real-time multiplayer logic, or how to get Android apps running on a Raspberry Pi 😉
+## 💡 Stack Highlights
+- Kotlin, Jetpack Compose, MVVM  
+- Swift & SwiftUI  
+- Firebase / Supabase  
+- FastAPI, WebSockets  
+- OpenStreetMap, Leaflet.js  
 
 ---
 
-## 📫 How to reach me:
-- ✉️ rathaj9@gmail.com  
-- 🔗 [LinkedIn – Noah Rathaj](https://www.linkedin.com/in/noah-rathaj-3351aa307/)  
-- 📂 [Explore my GitHub repositories](https://github.com/Zeeehner)
+## 📫 Contact
+[Email](mailto:rathaj9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/noah-rathaj-3351aa307/)
 
 ---
 
-## ⚡ Fun Fact
-> I don’t just build apps – I build **experiences**. Whether it's a smart everyday tool or a persistent, location-based multiplayer world. My goal? **Tech that feels like magic.**
-
----
+> “I don't just code apps – I build experiences that **feel like magic**.”
